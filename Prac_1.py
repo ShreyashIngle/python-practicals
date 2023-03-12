@@ -1,2 +1,1 @@
-print ("hello shreyash hello")
-
+namd = 'shreyash'
